@@ -1,6 +1,6 @@
 # Welcome to My GitHub Pages Website
 
-This is a basic static website created using **GitHub Pages** and GitHub Flavored Markdown (GFM).
+This is a Basic Static Website created using **GitHub Pages** and GitHub Flavored Markdown (GFM).
 
 ## Features of GitHub Flavored Markdown
 
@@ -23,12 +23,14 @@ You can create task lists to track progress. Here’s an example of a task list:
 - [ ] Add content to the site
 - [ ] Share the GitHub Pages URL
 
-### 3. Code Blocks with Syntax Highlighting
+### HEX Color
+The color `#0969DA` appears as ![#0969DA](https://via.placeholder.com/15/0969DA/000000?text=+) when displayed in GitHub Markdown. This is a shade of blue.
 
-Use three backticks (```) for code blocks. GitHub supports syntax highlighting for various programming languages.
+### RGB Color
+The color `rgb(9, 105, 218)` appears as `rgb(9, 105, 218)`. It’s the same color as the HEX code above, but in the RGB color model.
 
-#### Python Code Example:
+### HSL Color
+The color `hsl(212, 92%, 45%)` appears as `hsl(212, 92%, 45%)`. This represents the same shade of blue using the HSL model.
 
-```python
-def hello_world():
-    print("Hello, World!")
+
+
