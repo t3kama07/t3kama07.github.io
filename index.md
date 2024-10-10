@@ -1,12 +1,11 @@
-# Welcome to My GitHub Pages Website
+# Welcome to My GitHub Pages Website! 🖥️
 
 This is a Basic Static Website created using **GitHub Pages** and GitHub Flavored Markdown (GFM).
 
-## Features of GitHub Flavored Markdown
 
 ### 1. Tables
 
-You can create tables easily with GitHub Flavored Markdown. Here’s an example of a simple table:
+Here’s an example of a simple table:
 
 | Feature       | Description  |
 | ------------- | ------------ |
