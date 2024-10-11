@@ -1,6 +1,8 @@
 # Welcome to My GitHub Pages Website! 🖥️
 
-This is a Basic Static Website created using **GitHub Pages** and GitHub Flavored Markdown (GFM).
+#This Basic website is created for Learning Diary Question: Free choice extra assignment bundle E
+
+This is a Basic Static Website created  using **GitHub Pages** and GitHub Flavored Markdown (GFM)
 
 
 ### 1. Tables
@@ -15,7 +17,6 @@ Here’s an example of a simple table:
 
 ### 2. Task List
 
-You can create task lists to track progress. Here’s an example of a task list:
 ###  Here are steps for creating this type of website using Github:
 
 - [x] Create a GitHub repository 🗂️
