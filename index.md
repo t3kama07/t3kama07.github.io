@@ -1,6 +1,6 @@
 # Welcome to My GitHub Pages Website! 🖥️
 
-#This Basic website is created for Learning Diary Question: Free choice extra assignment bundle E
+This Basic website is created for Learning Diary Question: Free choice extra assignment bundle E
 
 This is a Basic Static Website created  using **GitHub Pages** and GitHub Flavored Markdown (GFM)
 
