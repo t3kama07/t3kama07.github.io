@@ -2,6 +2,9 @@
 
 This Basic website is created for Learning Diary Question: Free choice extra assignment bundle E
 
+![Pancakes with Berries](./photo-1463740839922-2d3b7e426a56.avif)
+
+
 ## Sections of the Blog 📝
 
 - 🍳 **Breakfast Recipes**
